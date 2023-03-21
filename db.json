@@ -1,0 +1,180 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "sunt aut facere repellat provident",
+      "image": "https://cdn.pixabay.com/photo/2022/12/04/16/17/leaves-7634894_960_720.jpg",
+      "desc": "Lörem ipsum nerer modemkapare och heteros huruvida dibysa ifall logopatologi reng i lakys niheten unde kyligt men antesåtunar, rohet.",
+      "authorname": "Sherif Yehia",
+      "phone": "0101001256",
+      "compnayname": "test"
+    },
+    {
+      "title": "nermen yehia",
+      "desc": "Lörem ipsum nerer modemkapare och heteros huruvida dibysa ifall logopatologi reng i lakys niheten unde kyligt men antesåtunar, rohet.",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "dolorem eum magni eos aperiam",
+      "image": "",
+      "desc": "Lörem ipsum nerer modemkapare och heteros huruvida dibysa ifall logopatologi reng i lakys niheten unde kyligt men antesåtunar, rohet."
+    },
+    {
+      "title": "dolorem dolore est ipsarm",
+      "desc": "Lörem ipsum nerer modemkapare och heteros huruvida dibysa ifall logopatologi reng i lakys niheten unde kyligt men antesåtunar, rohet.",
+      "id": 5
+    },
+    {
+      "title": "hello nermen",
+      "desc": "test test",
+      "id": 6
+    },
+    {
+      "title": "test test 3",
+      "desc": "hello nermen",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "username": "nermen",
+      "email": "nermen@email.com",
+      "password": "12345",
+      "id": 1,
+      "profilePic": "https://cdn.pixabay.com/photo/2021/06/20/20/31/woman-6351965_960_720.jpg"
+    },
+    {
+      "username": "nermen",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "username": "nermen",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "username": "ahmed",
+      "password": "",
+      "id": 4
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "username": "nermen",
+      "password": "1234",
+      "id": 9
+    },
+    {
+      "username": "nermen",
+      "password": "",
+      "id": 10
+    },
+    {
+      "username": "nermen",
+      "password": "1234",
+      "id": 11
+    },
+    {
+      "username": "mahmoud",
+      "email": "mahmoud@email.com",
+      "password": "123",
+      "id": 12
+    },
+    {
+      "username": "yehia",
+      "email": "yehia@email.com",
+      "password": "123",
+      "id": 13
+    },
+    {
+      "username": "test",
+      "email": "test@test.com",
+      "password": "123",
+      "id": 14
+    },
+    {
+      "username": "mahmoud",
+      "password": "123",
+      "id": 15
+    },
+    {
+      "username": "mahmoud",
+      "password": "123",
+      "id": 16
+    },
+    {
+      "username": "1234",
+      "password": "1234",
+      "id": 17
+    },
+    {
+      "username": "mahmoud",
+      "password": "1234",
+      "id": 18
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "id": 19
+    },
+    {
+      "username": "test",
+      "email": "test@test.com",
+      "password": "1234",
+      "id": 20
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "id": 21
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 22
+    },
+    {
+      "username": "mahmoud",
+      "email": "mahmoud@email.com",
+      "password": "1234",
+      "id": 23
+    },
+    {
+      "username": "mahmoud",
+      "password": "1234",
+      "id": 24
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 25
+    }
+  ]
+}
